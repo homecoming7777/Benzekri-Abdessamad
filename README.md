@@ -19,7 +19,7 @@
 ---
 
 ## ⚡ Tech Stack & Tools
-
+<center>
 <p align="center">
   <!-- Row 1 -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -53,7 +53,7 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=homecoming7777&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=homecoming7777&theme=tokyonight&hide_border=true" />
 </p>
-
+</center>
 ---
 
 ## 🚀 Top Projects
