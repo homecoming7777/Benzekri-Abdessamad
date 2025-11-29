@@ -19,9 +19,10 @@
 ---
 
 ## ⚡ Tech Stack & Tools
-<center>
+
 <p align="center">
   <!-- Row 1 -->
+  <center>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
@@ -43,6 +44,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jira/jira-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  </center>
 </p>
 
 ---
@@ -53,7 +55,6 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=homecoming7777&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=homecoming7777&theme=tokyonight&hide_border=true" />
 </p>
-</center>
 ---
 
 ## 🚀 Top Projects
